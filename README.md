@@ -1,18 +1,16 @@
-# MyScRaPbOoK-
+# myscrapbook
 
-Project Description: This is private scrapbook is used to capture memories and upload it to cloud storage(Firebase Storage).<br/>
-<strong>Gesture Detector </strong>is used to open camera on sliding either way and double tap to return to home page.<br/>
-Camera plugin is used to access the available cameras in the device (here front and back).<br/>
-Memories can be previewed and deleted in the gallery section.
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
-.<br/>
+A new Flutter project.
 
-Project will be updated with proper state management later.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

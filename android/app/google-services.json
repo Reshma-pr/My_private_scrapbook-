@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296455755688",
+    "project_id": "scrapbook-c9c41",
+    "storage_bucket": "scrapbook-c9c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296455755688:android:29a2a1de1fb0e97c79af9d",
+        "android_client_info": {
+          "package_name": "com.resha.myscrapbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296455755688-4uvm46r9o9c6vsnulkpbg7o3snsba3rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.resha.myscrapbook",
+            "certificate_hash": "c700aaf8c84f1a54d855d39e8b74643e3bb349f9"
+          }
+        },
+        {
+          "client_id": "296455755688-m60vkhjfsohk14clr8pngip477ovpskn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Odu7A_vavOx4C3PDdL8AFsCAOJfImVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296455755688-m60vkhjfsohk14clr8pngip477ovpskn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
