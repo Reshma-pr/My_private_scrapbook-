@@ -7,3 +7,12 @@ Project Description: This private scrapbook is used to upload and capture memori
   <li>Google sign in </li>
   <li>Firebase Auth</li>
   <li>Firebase Storage</li>
+  </ul>
+.<br/>
+ .<br/>
+  .<br/>
+  .<br/>
+  .<br/>
+  .<br/>
+  
+  Project will be updated with proper state management later..
